@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="salik",  # Package name
-    version="0.2.0",  # Incremented version; change as needed for new releases
+    version="0.3.0",  # Incremented version; change as needed for new releases
     author="Salik Uddin",
     author_email="uddinsalik@outlook.com",
     description="A Python package to showcase Salik Uddin's professional portfolio",
