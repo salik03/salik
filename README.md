@@ -125,4 +125,5 @@ For inquiries or feedback, please reach out to:
 
 - **Name**: Salik Uddin
 - **Email**: uddinsalik@outlook.com
-- **GitHub**: [yourusername](https://github.com/salik03)
+- **GitHub**: [salik03](https://github.com/salik03)
+
